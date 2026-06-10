@@ -33,7 +33,6 @@ langchain>=0.0.200
 python-dotenv>=1.0.0
 
 # Time Series and Date Handling
-datetime
 pytz
 
 # Monitoring (Optional)
