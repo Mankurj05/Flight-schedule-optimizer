@@ -254,9 +254,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 - **Mumbai Airport (BOM)**: [https://www.flightradar24.com/data/airports/bom](https://www.flightradar24.com/data/airports/bom)
 - **Delhi Airport (DEL)**: [https://www.flightradar24.com/data/airports/del](https://www.flightradar24.com/data/airports/del)
 
-## 🏆 Hackathon Submission
-
-This project addresses the Honeywell Hackathon challenge for flight schedule optimization by:
+This project addresses challenge for flight schedule optimization by:
 
 1. ✅ **Analyzing flight data** from busy airports using open-source AI tools
 2. ✅ **Finding optimal takeoff/landing times** through scheduled vs actual time analysis
@@ -266,5 +264,3 @@ This project addresses the Honeywell Hackathon challenge for flight schedule opt
 6. ✅ **Offering NLP interface** for natural language queries
 
 ---
-
-**Built with ❤️ for airline operations teams**
